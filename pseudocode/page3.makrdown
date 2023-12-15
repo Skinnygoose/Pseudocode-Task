@@ -1,0 +1,12 @@
+It has been proven that three basic constructs for flow of control are sufficient to implement any "proper" algorithm.
+
+SEQUENCE is a linear progression where one task is performed sequentially after another.
+WHILE is a loop (repetition) with a simple conditional test at its beginning.
+IF-THEN-ELSE is a decision (selection) in which a choice is made between two alternative courses of action.
+
+Although these constructs are sufficient, it is often useful to include three more constructs:
+ 
+
+REPEAT-UNTIL is a loop with a simple conditional test at the bottom.
+CASE is a multiway branch (decision) based on the value of an expression. CASE is a generalization of IF-THEN-ELSE.
+FOR is a "counting" loop.
